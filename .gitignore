@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files (optional)
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store

@@ -1,0 +1,60 @@
+[
+  { "question": "hello", "answer": "Hi there! How can I help you today?" },
+  { "question": "hi", "answer": "Hello! Feel free to ask me anything about our services." },
+  { "question": "hey", "answer": "Hey! I'm here to answer your questions." },
+  { "question": "good morning", "answer": "Good morning! How can I assist you today?" },
+  { "question": "good evening", "answer": "Good evening! How may I help you?" },
+
+  { "question": "how can I reset my password?", "answer": "You can reset your password by clicking on 'Forgot Password' on the login page." },
+  { "question": "what payment methods are accepted?", "answer": "We accept credit cards, debit cards, PayPal, and UPI." },
+  { "question": "how do I contact support?", "answer": "You can contact support by emailing support@yourcompany.com or using the chat option." },
+  { "question": "where is my order?", "answer": "You can track your order from your account under 'Orders' section." },
+  { "question": "can I cancel my order?", "answer": "Yes, you can cancel your order from your order history page before it is shipped." },
+
+  { "question": "how do I return a product?", "answer": "To return a product, go to 'My Orders', select the product and click 'Return'." },
+  { "question": "what is your return policy?", "answer": "We offer a 30-day return policy on most items. T&Cs apply." },
+  { "question": "how long does shipping take?", "answer": "Standard shipping usually takes 3-5 business days." },
+  { "question": "do you offer international shipping?", "answer": "Yes, we offer international shipping to selected countries." },
+  { "question": "how do I change my shipping address?", "answer": "You can change your address from the 'Account Settings' > 'Shipping Address' section." },
+
+  { "question": "can I change my email address?", "answer": "Yes, go to 'Account Settings' and update your email address." },
+  { "question": "how can I delete my account?", "answer": "Please contact support to permanently delete your account." },
+  { "question": "what are your customer service hours?", "answer": "Our customer service is available 24/7." },
+  { "question": "how do I apply a discount code?", "answer": "You can apply discount codes at checkout in the 'Promo Code' section." },
+  { "question": "why was my payment declined?", "answer": "This could be due to insufficient funds or bank restrictions. Please try another method." },
+
+  { "question": "can I change my order?", "answer": "Yes, you can modify your order if it hasn't been shipped yet." },
+  { "question": "do you offer gift wrapping?", "answer": "Yes, you can select gift wrapping during checkout." },
+  { "question": "how do I subscribe to the newsletter?", "answer": "Scroll to the bottom of the page and enter your email in the newsletter section." },
+  { "question": "can I reorder a previous item?", "answer": "Yes, go to 'Order History' and click 'Reorder'." },
+  { "question": "do you offer student discounts?", "answer": "Yes, we offer 10% discount for students. Verify your student email to apply." },
+
+  { "question": "do you sell gift cards?", "answer": "Yes, digital and physical gift cards are available on our website." },
+  { "question": "what is your refund policy?", "answer": "Refunds are processed within 5–7 working days after product inspection." },
+  { "question": "how do I create an account?", "answer": "Click 'Sign Up' on the top right corner and fill in your details." },
+  { "question": "how do I log in?", "answer": "Click 'Login' and enter your registered email and password." },
+  { "question": "can I change my phone number?", "answer": "Yes, you can update your phone number from your profile settings." },
+
+  { "question": "what if I forgot my password?", "answer": "Click 'Forgot Password' on the login page to reset it via email." },
+  { "question": "can I contact support via phone?", "answer": "Yes, call us at 1800-000-000 between 9AM and 6PM IST." },
+  { "question": "is my payment secure?", "answer": "Absolutely! All payments are processed through secure encrypted gateways." },
+  { "question": "can I get a copy of my invoice?", "answer": "Yes, you can download invoices from the 'Orders' section." },
+  { "question": "how can I give feedback?", "answer": "We appreciate feedback! Use the 'Feedback' option in your account." },
+
+  { "question": "how do I track my refund?", "answer": "Refund status is visible in the 'Refunds' section of your account." },
+  { "question": "can I get express delivery?", "answer": "Yes, express delivery is available at an extra cost during checkout." },
+  { "question": "what do I do if I received a damaged item?", "answer": "Please contact support immediately with a photo of the damaged item." },
+  { "question": "how do I update my profile picture?", "answer": "Go to your profile and click 'Edit Photo'." },
+  { "question": "how do I know my order is confirmed?", "answer": "You’ll receive a confirmation email and SMS after placing the order." },
+
+  { "question": "do you have a mobile app?", "answer": "Yes, download our app from the App Store or Google Play Store." },
+  { "question": "what should I do if I don’t receive my order?", "answer": "Contact support and we’ll track it or issue a replacement." },
+  { "question": "how can I join your referral program?", "answer": "Invite friends using your referral code from the 'Refer & Earn' section." },
+  { "question": "can I use multiple promo codes?", "answer": "Sorry, only one promo code can be used per order." },
+  { "question": "how do I report a bug or issue?", "answer": "Use the 'Report Issue' form from your dashboard or contact support." },
+
+  { "question": "thank you", "answer": "You're welcome! Let me know if you have any more questions." },
+  { "question": "thanks", "answer": "Glad I could help! 😊" },
+  { "question": "bye", "answer": "Goodbye! Have a great day!" },
+  { "question": "see you", "answer": "See you soon! I'm always here to help." }
+]
